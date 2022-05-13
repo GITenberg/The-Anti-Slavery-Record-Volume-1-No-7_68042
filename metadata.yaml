@@ -1,0 +1,26 @@
+_repo: The-Anti-Slavery-Record-Volume-1-No-7_68042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-05-10'
+identifiers:
+  gutenberg: '68042'
+language: en
+pgterms:marc905: 20220212171929listed
+pgterms:marc906: '1835'
+pgterms:marc907: US
+production_note: Carol Brown and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :R. G. Williams,1835.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Anti-Slavery Record, Volume 1, No. 7
+url: http://www.gutenberg.org/ebooks/68042
